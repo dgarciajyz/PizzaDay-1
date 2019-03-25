@@ -1,4 +1,5 @@
 # Pizza Day
+-Enlace de la especificación: https://raw.githubusercontent.com/slasom/PizzaDay/master/tuiter-mobilecentric.yaml
 
 -OpenApi Generator: https://openapi-generator-spilab.herokuapp.com
 
