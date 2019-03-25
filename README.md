@@ -1,4 +1,4 @@
-# PizzaDay
+# Pizza Day
 
 -OpenApi Generator: https://openapi-generator-spilab.herokuapp.com
 
